@@ -51,3 +51,7 @@ C:\Users\Dell\source\repos\WinFormsApp14\WinFormsApp14\obj\Debug\net8.0-windows\
 C:\Users\Dell\source\repos\WinFormsApp14\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.pdb
 C:\Users\Dell\source\repos\WinFormsApp14\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.genruntimeconfig.cache
 C:\Users\Dell\source\repos\WinFormsApp14\WinFormsApp14\obj\Debug\net8.0-windows\ref\WinFormsApp14.dll
+C:\Users\Dell\source\repos\WinFormsApp14\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.sourcelink.json
+C:\Users\Dell\source\repos\WinFormsApp14\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.g.resources
+C:\Users\Dell\source\repos\WinFormsApp14\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.Form3.resources
+C:\Users\Dell\source\repos\WinFormsApp14\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.Properties.Resources.resources

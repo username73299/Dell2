@@ -29,7 +29,10 @@ namespace WinFormsApp14
                 if (count > 0)
                 {
                     MessageBox.Show("Dang nhap thanh cong!");
-                    
+                    Form3 form3 = new Form3();
+                    form3.Show();
+                    this.Hide();
+
                 }
                 else
                 {
@@ -44,6 +47,16 @@ namespace WinFormsApp14
             RegisterForm registerForm = new RegisterForm();
             registerForm.Show();
             this.Hide();
+
+        }
+
+        private void txtUsername_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
 
         }
     }
