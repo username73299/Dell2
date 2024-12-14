@@ -12,14 +12,14 @@ using Microsoft.Data.SqlClient;
 
 namespace WinFormsApp14
 {
-    public partial class Form3 : Form
+    public partial class NhaCungCapForm : Form
     {
         private SqlConnection connection;
 
-        public Form3()
+        public NhaCungCapForm()
         {
             InitializeComponent();
-            string connectionString = @"Data Source=DESKTOP-4GP6MQB;Initial Catalog=banhang;Integrated Security=True;TrustServerCertificate=True;";
+            string connectionString = @"Data Source=localhost;Initial Catalog=banhang;User ID=sa;Password=12345678;TrustServerCertificate=True";
             connection = new SqlConnection(connectionString);
         }
         private void ConnectToDatabase()
@@ -42,7 +42,7 @@ namespace WinFormsApp14
         }
         private void LoadDataGridView()
         {
-            string query = "SELECT * FROM nhacungcap";
+            string query = "SELECT * FROM NhaCungCap";
             try
             {
                 ConnectToDatabase(); // Mở kết nối
@@ -54,11 +54,11 @@ namespace WinFormsApp14
                 while (reader.Read())
                 {
                     dataGridView1.Rows.Add(
-                        reader["mancc"].ToString(),  // Column1
-                        reader["tenncc"].ToString(), // Column2
-                        reader["diachi"].ToString(), // Column3
-                        reader["sdt"].ToString(),    // Column4
-                        reader["email"].ToString()   // Column5
+                        reader["maNhaCungCap"].ToString(),  
+                        reader["tenncc"].ToString(), 
+                        reader["diachi"].ToString(), 
+                        reader["sdt"].ToString(),    
+                        reader["email"].ToString()   
                     );
                 }
 
@@ -127,11 +127,6 @@ namespace WinFormsApp14
             }
         }
 
-        
-
-        
-       
-
         private void btnXoaNCC_Click(object sender, EventArgs e)
         {
             // Kiểm tra mã nhà cung cấp từ textbox
@@ -178,7 +173,6 @@ namespace WinFormsApp14
         
         private void btnTimKiem_Click(object sender, EventArgs e)
         {
-            // Khai báo biến cho mã nhà cung cấp
             int maNCC;
 
             // Kiểm tra giá trị mã nhà cung cấp có hợp lệ hay không

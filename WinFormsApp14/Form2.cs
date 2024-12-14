@@ -13,7 +13,7 @@ namespace WinFormsApp14
 {
     public partial class RegisterForm : Form
     {
-        string connectionString = @"Data Source=DESKTOP-4GP6MQB;Initial Catalog=banraucu;Integrated Security=True;TrustServerCertificate=True";
+        string connectionString = @"Data Source=localhost;Initial Catalog=banhang;User ID=sa;Password=12345678;TrustServerCertificate=True";
         public RegisterForm()
         {
             InitializeComponent();
@@ -28,7 +28,7 @@ namespace WinFormsApp14
         {
             if (txtPassword.Text != txtConfirmPassword.Text)
             {
-                MessageBox.Show("Mat khau sai.");
+                MessageBox.Show("Mật khẩu sai.");
                 return;
             }
 
@@ -43,12 +43,12 @@ namespace WinFormsApp14
                 try
                 {
                     cmd.ExecuteNonQuery();
-                    MessageBox.Show("Dang ky thanh cong!");
+                    MessageBox.Show("Đăng ký thành công!");
                     
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show("Loi: " + ex.Message);
+                    MessageBox.Show("Lỗi: " + ex.Message);
                 }
             }
 

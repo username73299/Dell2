@@ -4,7 +4,7 @@ namespace WinFormsApp14
 {
     public partial class LoginForm : Form
     {
-        string connectionString = @"Data Source=DESKTOP-4GP6MQB;Initial Catalog=banraucu;Integrated Security=True;TrustServerCertificate=True";
+        string connectionString = @"Data Source=localhost;Initial Catalog=banhang;User ID=sa;Password=12345678;TrustServerCertificate=True";
         public LoginForm()
         {
             InitializeComponent();
@@ -28,15 +28,16 @@ namespace WinFormsApp14
                 int count = (int)cmd.ExecuteScalar();
                 if (count > 0)
                 {
-                    MessageBox.Show("Dang nhap thanh cong!");
-                    Form3 form3 = new Form3();
-                    form3.Show();
+                    //Chuyển đến giao diện trans
+                    MessageBox.Show("Đăng nhập thành công!");
+                    TransForm transForm = new TransForm();
+                    transForm.Show();
                     this.Hide();
 
                 }
                 else
                 {
-                    MessageBox.Show("Sai tai khoan hoac mat khau.");
+                    MessageBox.Show("Sai tài khoản hoặc mật khẩu.");
                 }
             }
 

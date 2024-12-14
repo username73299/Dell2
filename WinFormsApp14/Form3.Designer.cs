@@ -1,6 +1,6 @@
 ﻿namespace WinFormsApp14
 {
-    partial class Form3
+    partial class NhaCungCapForm
     {
         /// <summary>
         /// Required designer variable.
@@ -249,7 +249,7 @@
             label1.TabIndex = 15;
             label1.Text = "Mã NCC";
             // 
-            // Form3
+            // NhaCungCapForm
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -260,7 +260,7 @@
             Controls.Add(txtMaNCC);
             Controls.Add(panel1);
             Controls.Add(panel2);
-            Name = "Form3";
+            Name = "NhaCungCapForm";
             Text = "NCC";
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             panel1.ResumeLayout(false);
