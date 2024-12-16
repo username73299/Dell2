@@ -49,12 +49,13 @@
             // 
             // dataGridView1
             // 
+            dataGridView1.BackgroundColor = SystemColors.Window;
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Columns.AddRange(new DataGridViewColumn[] { MaSP, TenSP, GiaNhap, DonGia, LoiNhuan, TongSoLuongBan, TongLoiNhuan });
-            dataGridView1.Location = new Point(12, 12);
+            dataGridView1.Location = new Point(-1, -3);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 82;
-            dataGridView1.Size = new Size(1432, 635);
+            dataGridView1.Size = new Size(1362, 664);
             dataGridView1.TabIndex = 0;
             dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
@@ -64,7 +65,7 @@
             MaSP.HeaderText = "Mã Sản Phẩm";
             MaSP.MinimumWidth = 10;
             MaSP.Name = "MaSP";
-            MaSP.Width = 206;
+            MaSP.Width = 198;
             // 
             // TenSP
             // 
@@ -72,7 +73,7 @@
             TenSP.HeaderText = "Tên Sản Phẩm";
             TenSP.MinimumWidth = 10;
             TenSP.Name = "TenSP";
-            TenSP.Width = 210;
+            TenSP.Width = 206;
             // 
             // GiaNhap
             // 
@@ -80,7 +81,7 @@
             GiaNhap.HeaderText = "Giá Nhập";
             GiaNhap.MinimumWidth = 10;
             GiaNhap.Name = "GiaNhap";
-            GiaNhap.Width = 158;
+            GiaNhap.Width = 152;
             // 
             // DonGia
             // 
@@ -88,7 +89,7 @@
             DonGia.HeaderText = "Giá Bán";
             DonGia.MinimumWidth = 10;
             DonGia.Name = "DonGia";
-            DonGia.Width = 140;
+            DonGia.Width = 138;
             // 
             // LoiNhuan
             // 
@@ -96,7 +97,7 @@
             LoiNhuan.HeaderText = "Lợi Nhuận";
             LoiNhuan.MinimumWidth = 10;
             LoiNhuan.Name = "LoiNhuan";
-            LoiNhuan.Width = 169;
+            LoiNhuan.Width = 165;
             // 
             // TongSoLuongBan
             // 
@@ -104,7 +105,7 @@
             TongSoLuongBan.HeaderText = "Tổng Lượng Bán";
             TongSoLuongBan.MinimumWidth = 10;
             TongSoLuongBan.Name = "TongSoLuongBan";
-            TongSoLuongBan.Width = 235;
+            TongSoLuongBan.Width = 194;
             // 
             // TongLoiNhuan
             // 
@@ -112,71 +113,81 @@
             TongLoiNhuan.HeaderText = "Tổng Lợi Nhuận";
             TongLoiNhuan.MinimumWidth = 10;
             TongLoiNhuan.Name = "TongLoiNhuan";
-            TongLoiNhuan.Width = 231;
+            TongLoiNhuan.Width = 225;
             // 
             // panel1
             // 
+            panel1.BackColor = SystemColors.ButtonFace;
+            panel1.BackgroundImageLayout = ImageLayout.Stretch;
             panel1.Controls.Add(LoadData);
-            panel1.Location = new Point(1450, 12);
+            panel1.Location = new Point(1360, -3);
             panel1.Name = "panel1";
-            panel1.Size = new Size(239, 270);
+            panel1.Size = new Size(339, 271);
             panel1.TabIndex = 1;
             // 
             // LoadData
             // 
-            LoadData.Location = new Point(44, 116);
+            LoadData.BackColor = SystemColors.Info;
+            LoadData.Location = new Point(73, 114);
             LoadData.Name = "LoadData";
-            LoadData.Size = new Size(150, 46);
+            LoadData.Size = new Size(173, 42);
             LoadData.TabIndex = 0;
             LoadData.Text = "Load";
-            LoadData.UseVisualStyleBackColor = true;
+            LoadData.UseVisualStyleBackColor = false;
             LoadData.Click += LoadData_Click;
             // 
             // panel2
             // 
+            panel2.BackColor = SystemColors.InactiveBorder;
             panel2.Controls.Add(label1);
             panel2.Controls.Add(textBox1);
             panel2.Controls.Add(button1);
-            panel2.Location = new Point(1450, 288);
+            panel2.Location = new Point(1360, 265);
             panel2.Name = "panel2";
-            panel2.Size = new Size(239, 359);
+            panel2.Size = new Size(348, 396);
             panel2.TabIndex = 2;
+            panel2.Paint += panel2_Paint;
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(33, 68);
+            label1.BackColor = SystemColors.Window;
+            label1.BorderStyle = BorderStyle.Fixed3D;
+            label1.Location = new Point(73, 91);
             label1.Name = "label1";
-            label1.Size = new Size(161, 32);
+            label1.Size = new Size(172, 31);
             label1.TabIndex = 2;
             label1.Text = "Mã Sản Phẩm";
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(18, 140);
+            textBox1.Location = new Point(51, 166);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(200, 39);
+            textBox1.Size = new Size(230, 35);
             textBox1.TabIndex = 1;
             textBox1.TextChanged += textBox1_TextChanged;
             // 
             // button1
             // 
-            button1.Location = new Point(44, 247);
+            button1.BackColor = SystemColors.Info;
+            button1.Location = new Point(73, 251);
             button1.Name = "button1";
-            button1.Size = new Size(150, 46);
+            button1.Size = new Size(173, 42);
             button1.TabIndex = 0;
             button1.Text = "Tìm Kiếm";
-            button1.UseVisualStyleBackColor = true;
+            button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
             // 
             // ThongKeDoanhThu
             // 
-            AutoScaleDimensions = new SizeF(13F, 32F);
+            AutoScaleDimensions = new SizeF(15F, 29F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.Menu;
             ClientSize = new Size(1701, 659);
             Controls.Add(panel2);
             Controls.Add(panel1);
             Controls.Add(dataGridView1);
+            Font = new Font("Arial", 9F, FontStyle.Bold, GraphicsUnit.Point, 163);
             Name = "ThongKeDoanhThu";
             Text = "Form7";
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();

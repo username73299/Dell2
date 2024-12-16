@@ -41,6 +41,7 @@
             // 
             // chitietDT
             // 
+            chitietDT.BackgroundColor = SystemColors.Window;
             chitietDT.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             chitietDT.Columns.AddRange(new DataGridViewColumn[] { MaSP, TenSP, GiaNhap, DonGia, LoiNhuan, TongSoLuongBan, TongLoiNhuan });
             chitietDT.Location = new Point(12, 12);

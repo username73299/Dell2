@@ -33,20 +33,21 @@
             TenSP = new DataGridViewTextBoxColumn();
             DonGia = new DataGridViewTextBoxColumn();
             SoLuongBan = new DataGridViewTextBoxColumn();
-            SoLuongHong = new DataGridViewTextBoxColumn();
             SoLuongTon = new DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)chitietSP).BeginInit();
             SuspendLayout();
             // 
             // chitietSP
             // 
+            chitietSP.BackgroundColor = SystemColors.Window;
             chitietSP.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            chitietSP.Columns.AddRange(new DataGridViewColumn[] { MaSP, TenSP, DonGia, SoLuongBan, SoLuongHong, SoLuongTon });
+            chitietSP.Columns.AddRange(new DataGridViewColumn[] { MaSP, TenSP, DonGia, SoLuongBan, SoLuongTon });
             chitietSP.Location = new Point(12, 12);
             chitietSP.Name = "chitietSP";
             chitietSP.RowHeadersWidth = 82;
-            chitietSP.Size = new Size(1254, 538);
+            chitietSP.Size = new Size(1041, 538);
             chitietSP.TabIndex = 0;
+            chitietSP.CellContentClick += chitietSP_CellContentClick;
             // 
             // MaSP
             // 
@@ -80,14 +81,6 @@
             SoLuongBan.Name = "SoLuongBan";
             SoLuongBan.Width = 202;
             // 
-            // SoLuongHong
-            // 
-            SoLuongHong.AutoSizeMode = DataGridViewAutoSizeColumnMode.ColumnHeader;
-            SoLuongHong.HeaderText = "Số lượng hỏng";
-            SoLuongHong.MinimumWidth = 10;
-            SoLuongHong.Name = "SoLuongHong";
-            SoLuongHong.Width = 218;
-            // 
             // SoLuongTon
             // 
             SoLuongTon.AutoSizeMode = DataGridViewAutoSizeColumnMode.ColumnHeader;
@@ -100,7 +93,7 @@
             // 
             AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1279, 562);
+            ClientSize = new Size(1069, 562);
             Controls.Add(chitietSP);
             Name = "Form6";
             Text = "Form6";
@@ -116,7 +109,6 @@
         private DataGridViewTextBoxColumn TenSP;
         private DataGridViewTextBoxColumn DonGia;
         private DataGridViewTextBoxColumn SoLuongBan;
-        private DataGridViewTextBoxColumn SoLuongHong;
         private DataGridViewTextBoxColumn SoLuongTon;
     }
 }

@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\mihah\\source\\repos\\Dell11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|c:\\users\\mihah\\source\\repos\\dell11\\winformsapp14\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|c:\\users\\mihah\\source\\repos\\dell11\\winformsapp14\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|c:\\users\\mihah\\source\\repos\\dell11\\winformsapp14\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|c:\\users\\mihah\\source\\repos\\dell11\\winformsapp14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|c:\\users\\mihah\\source\\repos\\dell11\\winformsapp14\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|c:\\users\\mihah\\source\\repos\\dell11\\winformsapp14\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|c:\\users\\mihah\\source\\repos\\dell11\\winformsapp14\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|C:\\Users\\mihah\\source\\repos\\Dell11\\winformsapp14\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|C:\\Users\\mihah\\source\\repos\\Dell11\\winformsapp14\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|C:\\Users\\mihah\\source\\repos\\Dell11\\winformsapp14\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -43,16 +15,64 @@
       "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|c:\\users\\mihah\\source\\repos\\dell11\\winformsapp14\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|C:\\Users\\mihah\\source\\repos\\Dell11\\winformsapp14\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|C:\\Users\\mihah\\source\\repos\\Dell11\\winformsapp14\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|c:\\users\\mihah\\source\\repos\\dell11\\winformsapp14\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|c:\\users\\mihah\\source\\repos\\dell11\\winformsapp14\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|c:\\users\\mihah\\source\\repos\\dell11\\winformsapp14\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|C:\\Users\\mihah\\source\\repos\\Dell11\\winformsapp14\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|c:\\users\\mihah\\source\\repos\\dell11\\winformsapp14\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|c:\\users\\mihah\\source\\repos\\dell11\\winformsapp14\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|c:\\users\\mihah\\source\\repos\\dell11\\winformsapp14\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|c:\\users\\mihah\\source\\repos\\dell11\\winformsapp14\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|C:\\Users\\mihah\\source\\repos\\Dell11\\winformsapp14\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|c:\\users\\mihah\\source\\repos\\dell11\\winformsapp14\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|c:\\users\\mihah\\source\\repos\\dell11\\winformsapp14\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|c:\\users\\mihah\\source\\repos\\dell11\\winformsapp14\\form9.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form9.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|C:\\Users\\mihah\\source\\repos\\Dell11\\winformsapp14\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|c:\\users\\mihah\\source\\repos\\dell11\\winformsapp14\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,16 +83,12 @@
       "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|C:\\Users\\mihah\\source\\repos\\Dell11\\winformsapp14\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|c:\\users\\mihah\\source\\repos\\dell11\\winformsapp14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|C:\\Users\\mihah\\source\\repos\\Dell11\\winformsapp14\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|c:\\users\\mihah\\source\\repos\\dell11\\winformsapp14\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|c:\\users\\mihah\\source\\repos\\dell11\\winformsapp14\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513CE3AB-FEBA-4EF5-8BE8-7D3289C96308}|WinFormsApp14\\WinFormsApp14.csproj|solutionrelative:winformsapp14\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,159 +98,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Form6.cs",
-              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form6.cs",
-              "RelativeDocumentMoniker": "WinFormsApp14\\Form6.cs",
-              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form6.cs",
-              "RelativeToolTip": "WinFormsApp14\\Form6.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T14:31:50.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form5.cs",
-              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form5.cs",
-              "RelativeDocumentMoniker": "WinFormsApp14\\Form5.cs",
-              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form5.cs",
-              "RelativeToolTip": "WinFormsApp14\\Form5.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T14:31:37.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form4.cs",
-              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form4.cs",
-              "RelativeDocumentMoniker": "WinFormsApp14\\Form4.cs",
-              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form4.cs",
-              "RelativeToolTip": "WinFormsApp14\\Form4.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T12:51:16.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form8.cs",
-              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form8.cs",
-              "RelativeDocumentMoniker": "WinFormsApp14\\Form8.cs",
-              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form8.cs",
-              "RelativeToolTip": "WinFormsApp14\\Form8.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T17:17:57.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form1.cs",
-              "RelativeDocumentMoniker": "WinFormsApp14\\Form1.cs",
-              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form1.cs",
-              "RelativeToolTip": "WinFormsApp14\\Form1.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAADgvx4AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T15:46:23.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form2.cs",
-              "RelativeDocumentMoniker": "WinFormsApp14\\Form2.cs",
-              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form2.cs",
-              "RelativeToolTip": "WinFormsApp14\\Form2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T15:46:29.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form3.cs",
-              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form3.cs",
-              "RelativeDocumentMoniker": "WinFormsApp14\\Form3.cs",
-              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form3.cs",
-              "RelativeToolTip": "WinFormsApp14\\Form3.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAADgv64AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T12:56:27.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form7.cs",
-              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form7.cs",
-              "RelativeDocumentMoniker": "WinFormsApp14\\Form7.cs",
-              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form7.cs",
-              "RelativeToolTip": "WinFormsApp14\\Form7.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T16:56:33.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Form7.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form7.cs",
               "RelativeDocumentMoniker": "WinFormsApp14\\Form7.cs",
               "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form7.cs [Design]",
               "RelativeToolTip": "WinFormsApp14\\Form7.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T13:18:31.979Z"
+              "WhenOpened": "2024-12-14T13:18:31.979Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Form6.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form6.cs",
               "RelativeDocumentMoniker": "WinFormsApp14\\Form6.cs",
               "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form6.cs [Design]",
               "RelativeToolTip": "WinFormsApp14\\Form6.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T13:01:42.344Z"
+              "WhenOpened": "2024-12-14T13:01:42.344Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Form8.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form8.cs",
-              "RelativeDocumentMoniker": "WinFormsApp14\\Form8.cs",
-              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form8.cs [Design]",
-              "RelativeToolTip": "WinFormsApp14\\Form8.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T17:10:53.782Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "Form5.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form5.cs",
               "RelativeDocumentMoniker": "WinFormsApp14\\Form5.cs",
               "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form5.cs [Design]",
               "RelativeToolTip": "WinFormsApp14\\Form5.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T13:00:45.896Z"
+              "WhenOpened": "2024-12-14T13:00:45.896Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form3.cs",
+              "RelativeDocumentMoniker": "WinFormsApp14\\Form3.cs",
+              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form3.cs [Design]",
+              "RelativeToolTip": "WinFormsApp14\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:15:45.533Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form9.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form9.cs",
+              "RelativeDocumentMoniker": "WinFormsApp14\\Form9.cs",
+              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form9.cs [Design]",
+              "RelativeToolTip": "WinFormsApp14\\Form9.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:03:09.09Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form3.cs",
+              "RelativeDocumentMoniker": "WinFormsApp14\\Form3.cs",
+              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form3.cs",
+              "RelativeToolTip": "WinFormsApp14\\Form3.cs",
+              "ViewState": "AgIAACgBAAAAAAAAAAArwDABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:56:27.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp14\\Form3.Designer.cs",
+              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form3.Designer.cs",
+              "RelativeToolTip": "WinFormsApp14\\Form3.Designer.cs",
+              "ViewState": "AgIAADUBAAAAAAAAAADgvzoBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:11:00.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form8.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form8.cs",
+              "RelativeDocumentMoniker": "WinFormsApp14\\Form8.cs",
+              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form8.cs [Design]",
+              "RelativeToolTip": "WinFormsApp14\\Form8.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T17:10:53.782Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Form4.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form4.cs",
               "RelativeDocumentMoniker": "WinFormsApp14\\Form4.cs",
@@ -245,30 +210,55 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form6.cs",
+              "RelativeDocumentMoniker": "WinFormsApp14\\Form6.cs",
+              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form6.cs",
+              "RelativeToolTip": "WinFormsApp14\\Form6.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADgvy0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:31:50.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form8.cs",
+              "RelativeDocumentMoniker": "WinFormsApp14\\Form8.cs",
+              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form8.cs",
+              "RelativeToolTip": "WinFormsApp14\\Form8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T17:17:57.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form9.cs",
+              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form9.cs",
+              "RelativeDocumentMoniker": "WinFormsApp14\\Form9.cs",
+              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form9.cs",
+              "RelativeToolTip": "WinFormsApp14\\Form9.cs",
+              "ViewState": "AgIAAPgAAAAAAAAAAAArwAMBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:24:57.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form7.cs",
+              "RelativeDocumentMoniker": "WinFormsApp14\\Form7.cs",
+              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form7.cs",
+              "RelativeToolTip": "WinFormsApp14\\Form7.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAvwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:56:33.397Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Form4.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form4.Designer.cs",
-              "RelativeDocumentMoniker": "WinFormsApp14\\Form4.Designer.cs",
-              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form4.Designer.cs",
-              "RelativeToolTip": "WinFormsApp14\\Form4.Designer.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAADgvykAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T14:53:10.411Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Form3.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form3.cs",
-              "RelativeDocumentMoniker": "WinFormsApp14\\Form3.cs",
-              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form3.cs [Design]",
-              "RelativeToolTip": "WinFormsApp14\\Form3.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T12:15:45.533Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form2.cs",
               "RelativeDocumentMoniker": "WinFormsApp14\\Form2.cs",
@@ -280,6 +270,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form5.cs",
+              "RelativeDocumentMoniker": "WinFormsApp14\\Form5.cs",
+              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form5.cs",
+              "RelativeToolTip": "WinFormsApp14\\Form5.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAADgvy8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:31:37.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form4.cs",
+              "RelativeDocumentMoniker": "WinFormsApp14\\Form4.cs",
+              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form4.cs",
+              "RelativeToolTip": "WinFormsApp14\\Form4.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAArwC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:51:16.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form9.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form9.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp14\\Form9.Designer.cs",
+              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form9.Designer.cs",
+              "RelativeToolTip": "WinFormsApp14\\Form9.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAADgvxYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T00:56:29.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form10.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form10.cs",
+              "RelativeDocumentMoniker": "WinFormsApp14\\Form10.cs",
+              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form10.cs [Design]",
+              "RelativeToolTip": "WinFormsApp14\\Form10.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T00:55:03.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form4.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form4.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp14\\Form4.Designer.cs",
+              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form4.Designer.cs",
+              "RelativeToolTip": "WinFormsApp14\\Form4.Designer.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAADgv2MAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:53:10.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp14\\Form1.cs",
@@ -290,15 +340,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Form3.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form3.Designer.cs",
-              "RelativeDocumentMoniker": "WinFormsApp14\\Form3.Designer.cs",
-              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form3.Designer.cs",
-              "RelativeToolTip": "WinFormsApp14\\Form3.Designer.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAIBJwBUBAAAiAAAAAAAAAA==",
+              "DocumentIndex": 20,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp14\\Form1.cs",
+              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp14\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIA8wA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T16:11:00.231Z"
+              "WhenOpened": "2024-11-17T15:46:23.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp14\\Form2.cs",
+              "ToolTip": "C:\\Users\\mihah\\source\\repos\\Dell11\\WinFormsApp14\\Form2.cs",
+              "RelativeToolTip": "WinFormsApp14\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:46:29.307Z"
             }
           ]
         }

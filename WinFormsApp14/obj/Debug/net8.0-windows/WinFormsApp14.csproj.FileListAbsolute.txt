@@ -97,7 +97,15 @@ C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\bin\Debug\net8.0-windows\runtim
 C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.csproj.AssemblyReference.cache
 C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.g.resources
 C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.LoginForm.resources
+C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.Form10.resources
 C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.RegisterForm.resources
+C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.NhaCungCapForm.resources
+C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.TransForm.resources
+C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.FormThongKe.resources
+C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.Form6.resources
+C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.ThongKeDoanhThu.resources
+C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.Form8.resources
+C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.QuanLySanPham.resources
 C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.Properties.Resources.resources
 C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.csproj.GenerateResource.cache
 C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.GeneratedMSBuildEditorConfig.editorconfig
@@ -111,9 +119,3 @@ C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\refint
 C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.pdb
 C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.genruntimeconfig.cache
 C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\ref\WinFormsApp14.dll
-C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.NhaCungCapForm.resources
-C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.TransForm.resources
-C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.Form6.resources
-C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.FormThongKe.resources
-C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.Form8.resources
-C:\Users\mihah\Source\Repos\Dell11\WinFormsApp14\obj\Debug\net8.0-windows\WinFormsApp14.ThongKeDoanhThu.resources

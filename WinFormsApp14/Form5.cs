@@ -44,7 +44,6 @@ namespace WinFormsApp14
                     if (col.Name == "TenSP") col.DataPropertyName = "TenSP";
                     if (col.Name == "DonGia") col.DataPropertyName = "DonGia";
                     if (col.Name == "SoLuongBan") col.DataPropertyName = "SoLuongBan";
-                    if (col.Name == "SoLuongHong") col.DataPropertyName = "SoLuongHong";
                     if (col.Name == "SoLuongTon") col.DataPropertyName = "SoLuongTon";
                 }
             }

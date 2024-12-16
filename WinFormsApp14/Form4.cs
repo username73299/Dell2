@@ -44,5 +44,11 @@ namespace WinFormsApp14
         {
             Application.Exit();
         }
+
+        private void btnQuanLySP_Click(object sender, EventArgs e)
+        {
+            QuanLySanPham  qlsp = new QuanLySanPham();
+            qlsp.Show();
+        }
     }
 }

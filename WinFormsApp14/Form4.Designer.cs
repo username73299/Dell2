@@ -33,6 +33,7 @@
             btnThongKeDoanhThu = new Button();
             btnThoat = new Button();
             panel1 = new Panel();
+            btnQuanLySP = new Button();
             panel1.SuspendLayout();
             SuspendLayout();
             // 
@@ -68,7 +69,7 @@
             // 
             // btnThoat
             // 
-            btnThoat.Location = new Point(709, 434);
+            btnThoat.Location = new Point(709, 485);
             btnThoat.Name = "btnThoat";
             btnThoat.Size = new Size(150, 46);
             btnThoat.TabIndex = 3;
@@ -78,6 +79,7 @@
             // 
             // panel1
             // 
+            panel1.Controls.Add(btnQuanLySP);
             panel1.Controls.Add(btnThongKeDoanhThu);
             panel1.Controls.Add(btnThoat);
             panel1.Controls.Add(btnNhaCungCap);
@@ -86,6 +88,16 @@
             panel1.Name = "panel1";
             panel1.Size = new Size(1677, 635);
             panel1.TabIndex = 4;
+            // 
+            // btnQuanLySP
+            // 
+            btnQuanLySP.Location = new Point(676, 416);
+            btnQuanLySP.Name = "btnQuanLySP";
+            btnQuanLySP.Size = new Size(234, 46);
+            btnQuanLySP.TabIndex = 4;
+            btnQuanLySP.Text = "Quản Lý Sản Phẩm";
+            btnQuanLySP.UseVisualStyleBackColor = true;
+            btnQuanLySP.Click += btnQuanLySP_Click;
             // 
             // TransForm
             // 
@@ -107,5 +119,6 @@
         private Button btnThongKeDoanhThu;
         private Button btnThoat;
         private Panel panel1;
+        private Button btnQuanLySP;
     }
 }

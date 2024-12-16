@@ -83,7 +83,7 @@ namespace WinFormsApp14
             using (SqlConnection conn = new SqlConnection(connectionString))
             {
                 SqlCommand cmd = new SqlCommand(query, conn);
-                cmd.Parameters.AddWithValue("@searchText","%" + searchText+ "%");
+                cmd.Parameters.AddWithValue("@searchText", "%" + searchText + "%");
 
                 SqlDataAdapter adapter = new SqlDataAdapter(cmd);
                 DataTable dtt = new DataTable();
@@ -102,6 +102,11 @@ namespace WinFormsApp14
                     MessageBox.Show("Không tìm thấy sản phẩm.");
                 }
             }
+
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
 
         }
     }

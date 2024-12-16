@@ -28,13 +28,17 @@ namespace WinFormsApp14
                 if (col.Name == "TenSP") col.DataPropertyName = "TenSP";
                 if (col.Name == "DonGia") col.DataPropertyName = "DonGia";
                 if (col.Name == "SoLuongBan") col.DataPropertyName = "SoLuongBan";
-                if (col.Name == "SoLuongHong") col.DataPropertyName = "SoLuongHong";
                 if (col.Name == "SoLuongTon") col.DataPropertyName = "SoLuongTon";
             }
-           
+
         }
 
         private void Form6_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void chitietSP_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
         }
